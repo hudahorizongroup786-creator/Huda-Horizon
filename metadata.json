@@ -1,0 +1,6 @@
+{
+  "name": "Huda Horizon Global Trade",
+  "description": "Global rice export intelligence, trade directory access, and macro export analytics for Indian rice exporters and global commodity traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
